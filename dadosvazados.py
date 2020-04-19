@@ -53,8 +53,8 @@ for x in email :
        
 print()
 sorte= random.choice(email)
-print("APENAS A SORTE PODERA LIBERTAR SEU EMAIL:\nOS NOMES DA LISTA EU VOU SORTEAR!!!!!!!")
-print("SE SAIR --------- ALBERICO------------ seu email é LIBERTADO")
+print("APENAS A SORTE PODERA LIBERTAR SEUS DADOS:\nOS NOMES DA LISTA EU VOU SORTEAR!!!!!!!")
+print("SE SAIR --------- ALBERICO------------ sésuinformaçao SERA LIBERTADA")
 print()
 print()
 for x in email :
@@ -67,8 +67,8 @@ print()
 print()
 if sorte== "alberico":
     print()
-    print("parabéns seu email foi desVAZADO!!!!!!!!!!!")
+    print("parabéns sua INFORMAÇAO foi desVAZADA!!!!!!!!!!!")
 else:
-    print("VENDI SEU EMAIL NA DEEP, TENTE DENOVO MAIS TARDE!!!!!!!!")
+    print("VENDI SEUS DADOS NA DEEP, TENTE DENOVO MAIS TARDE!!!!!!!!")
     
 
