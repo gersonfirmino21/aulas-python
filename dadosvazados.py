@@ -54,7 +54,7 @@ for x in email :
 print()
 sorte= random.choice(email)
 print("APENAS A SORTE PODERA LIBERTAR SEUS DADOS:\nOS NOMES DA LISTA EU VOU SORTEAR!!!!!!!")
-print("SE SAIR --------- ALBERICO------------ sésuinformaçao SERA LIBERTADA")
+print("SE SAIR --------- ALBERICO------------ SUA INformaçao SERA LIBERTADA")
 print()
 print()
 for x in email :
